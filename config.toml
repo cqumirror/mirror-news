@@ -1,0 +1,35 @@
+archetypeDir           = "archetypes"
+author                 = "admin"
+baseUrl                = "http://mirrors.cqu.edu.cn/news"
+buildDrafts            = false
+relativeURLs           = true
+canonifyUrls           = true
+contentDir             = "content"
+languageCode           = "en-us"
+layoutDir              = "layouts"
+publishDir             = "public"
+theme                  = "pixyll"
+themesDir              = "themes/"
+title                  = "CQU Mirror 看板"
+enableEmoji            = true
+DefaultContentLanguage = "zh"
+#disqusShortname        = ""
+
+[Languages]
+[Languages.zh]
+weight = 1
+
+[blackfriday]
+angledQuotes = true
+hrefTargetBlank = true
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  mainSections = ["post"]
+  search_engine = true
+  #google_analytics_id = ""
+  twitter_username = "username"
+  paginate = 5

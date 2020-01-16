@@ -1,0 +1,152 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>CQU Mirror 看板 on CQU Mirror 看板 </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://mirrors.cqu.edu.cn/news/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 03 Sep 2019 00:00:00 UTC</updated>
+    
+    <item>
+      <title>新增封禁IP</title>
+      <link>http://mirrors.cqu.edu.cn/news/post/2019-09-03ipban/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 UTC</pubDate>
+      
+      <guid>http://mirrors.cqu.edu.cn/news/post/2019-09-03ipban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>重庆大学镜像站重新上线啦</title>
+      <link>http://mirrors.cqu.edu.cn/news/post/2017-05-24-hello-world/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://mirrors.cqu.edu.cn/news/post/2017-05-24-hello-world/</guid>
+      <description>由于种种原因，重庆大学镜像站整整瘫痪了 5 个月。而现在，重庆大学镜像站正式恢复 服务啦。</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://mirrors.cqu.edu.cn/news/contact/</link>
+      <pubDate>Sun, 09 Nov 2014 13:49:44 &#43;0400</pubDate>
+      
+      <guid>http://mirrors.cqu.edu.cn/news/contact/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://mirrors.cqu.edu.cn/news/search/</link>
+      <pubDate>Sun, 09 Nov 2014 13:49:44 &#43;0400</pubDate>
+      
+      <guid>http://mirrors.cqu.edu.cn/news/search/</guid>
+      <description>      $(document).ready(function() { $(&#39;#tipue_search_input&#39;).tipuesearch({ &#39;mode&#39; : &#39;json&#39;, &#39;show&#39;: 10, &#39;newWindow&#39;: true, &#39;wholeWords&#39;: false }); });     </description>
+    </item>
+    
+    <item>
+      <title>Контакты</title>
+      <link>http://mirrors.cqu.edu.cn/news/contact/</link>
+      <pubDate>Sun, 09 Nov 2014 13:49:44 &#43;0400</pubDate>
+      
+      <guid>http://mirrors.cqu.edu.cn/news/contact/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://mirrors.cqu.edu.cn/news/about/</link>
+      <pubDate>Sat, 08 Nov 2014 16:42:18 &#43;0400</pubDate>
+      
+      <guid>http://mirrors.cqu.edu.cn/news/about/</guid>
+      <description>Few words about project.</description>
+    </item>
+    
+    <item>
+      <title>О нас</title>
+      <link>http://mirrors.cqu.edu.cn/news/about/</link>
+      <pubDate>Sat, 08 Nov 2014 16:42:18 &#43;0400</pubDate>
+      
+      <guid>http://mirrors.cqu.edu.cn/news/about/</guid>
+      <description>Пару слов о проекте.</description>
+    </item>
+    
+    <item>
+      <title>发现恶意流量，ban 一些 IP</title>
+      <link>http://mirrors.cqu.edu.cn/news/post/2017-08-02-ipban/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://mirrors.cqu.edu.cn/news/post/2017-08-02-ipban/</guid>
+      <description>220.194.244.0/27  如有问题，请移步 feedback</description>
+    </item>
+    
+    <item>
+      <title>封禁 IP 请移步 [feedback](https://github.com/cqumirror/feedback/issues/3)</title>
+      <link>http://mirrors.cqu.edu.cn/news/post/2017-08-30-ipban/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://mirrors.cqu.edu.cn/news/post/2017-08-30-ipban/</guid>
+      <description>如题。</description>
+    </item>
+    
+    <item>
+      <title>新增封禁IP</title>
+      <link>http://mirrors.cqu.edu.cn/news/post/2017-08-14-ipban/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://mirrors.cqu.edu.cn/news/post/2017-08-14-ipban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>这里有一些感谢</title>
+      <link>http://mirrors.cqu.edu.cn/news/post/2017-06-24-tks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://mirrors.cqu.edu.cn/news/post/2017-06-24-tks/</guid>
+      <description> 感谢重庆大学信息化办公室的支持 感谢重庆 LUG 捐赠的 2T 硬盘 感谢重庆大学 IBM Power System 教育中心提供的存储资源 感谢王一帆学长的慷慨资助，我们得以购入新服务器  </description>
+    </item>
+    
+    <item>
+      <title>部分镜像故障</title>
+      <link>http://mirrors.cqu.edu.cn/news/post/2019-02-13-archbreakdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://mirrors.cqu.edu.cn/news/post/2019-02-13-archbreakdown/</guid>
+      <description>部分镜像在同步时发生了不可预制错误，目前主要已知受到影响的镜像如下： - archlinux - debian - debian CD - archlinuxcn - archlinuxarm
+目前在抢修之中，最坏的可能是需要两天时间才能恢复。目前已经为大家重定向到tuna。 请稍安勿躁。</description>
+    </item>
+    
+    <item>
+      <title>部分镜像故障修复</title>
+      <link>http://mirrors.cqu.edu.cn/news/post/2019-02-13-warning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://mirrors.cqu.edu.cn/news/post/2019-02-13-warning/</guid>
+      <description>故障镜像已于4:38完成同步，恢复使用。</description>
+    </item>
+    
+    <item>
+      <title>部分镜像移除</title>
+      <link>http://mirrors.cqu.edu.cn/news/post/2019-05-23-rm-some-mirrors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://mirrors.cqu.edu.cn/news/post/2019-05-23-rm-some-mirrors/</guid>
+      <description>由于硬盘空间再次不足，我们将考虑移除部分镜像。因此不得不做出以下决定： 移除：
+ 彻底移除pypi ezgo Linux aosp.bak openwrt  停止提供更新同步：
+ manjaro aosc  但是请使用以上镜像的同学不要担心： 1. pypi一直是重定向到tuna 2. ezgo请前往USTC mirror 3. aosp用户请前往TUNA 4. openwrt用户请自行前往LEDE 5. manjaro用户我们将反向代理至TUNA 6. aosc介于同样无人使用暂停更新。
+对为您造成的不便我们深表歉意。</description>
+    </item>
+    
+    <item>
+      <title>重大镜像站停止服务通知</title>
+      <link>http://mirrors.cqu.edu.cn/news/post/2017-05-24-nc-renovation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://mirrors.cqu.edu.cn/news/post/2017-05-24-nc-renovation/</guid>
+      <description>重大网络中心将在 2017 年 5 月 28 日 7 时到 5 月 29 日 12 时进行机房整体搬迁， 搬迁期间数据中心内的所有服务器将会关闭。所以，重大镜像站将在该期间停止服务。</description>
+    </item>
+    
+  </channel>
+</rss>
+
